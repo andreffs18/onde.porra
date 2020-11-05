@@ -45,7 +45,11 @@ select {
     color: white;
 }
 
+h1{
+    color: black;
+}
 .lead{
+    color: black;
     font-weight: 500;
     line-height: 36px;
 }
